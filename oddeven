@@ -1,0 +1,2 @@
+num = as.integer(readline(prompt = "Enter a number :"))
+ifelse(((num %% 2)==0),print('Number is even'),print('Number is odd'))
