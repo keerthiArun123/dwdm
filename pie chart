@@ -1,0 +1,7 @@
+pie(expenditure,
+labels=as.character(expenditure),
+main="Monthly Expenditure Breakdown",
+col=c("red","orange","yellow","blue","green"),
+border="brown",
+clockwise=TRUE
+)
