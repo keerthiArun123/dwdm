@@ -1,0 +1,11 @@
+> x <- c(2,8,3)
+> y <-c(6,4,1)
+
+> x+y
+[1]  8 12  4
+
+> x > y
+[1] FALSE  TRUE  TRUE
+
+> x < y
+[1]  TRUE FALSE FALSE
